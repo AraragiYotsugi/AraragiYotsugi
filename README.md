@@ -10,7 +10,7 @@
 - 🤔 **正在迷茫：作为一个研二普通一本学校的学生，自己掌握的技术比较杂，却都不精。目前在正在求职和找实习中。。。。。。。。**
   - Confused and a bit lost: Being a second-year master's student from just a regular university, I've learned a bit of everything, but nothing in real depth. Right now, I'm searching for jobs and internships...
 
-[![斧乃木Yotsugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AraragiYotsugi&show_icons=true&theme=merko)](https://github.com/AraragiYotsugi)
+[![斧乃木Yotsugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AraragiYotsugi&show_icons=true&theme=omni)](https://github.com/AraragiYotsugi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AraragiYotsugi&layout=compact)](https://github.com/AraragiYotsugi)
 

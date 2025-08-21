@@ -10,12 +10,18 @@
 - 🤔 **正在迷茫：作为一个研二普通一本学校的学生，自己掌握的技术比较杂，却都不精。目前在正在求职和找实习中。。。。。。。。**
   - Confused and a bit lost: Being a second-year master's student from just a regular university, I've learned a bit of everything, but nothing in real depth. Right now, I'm searching for jobs and internships...
 
-[![斧乃木Yotsugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AraragiYotsugi&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+[![斧乃木Yotsugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AraragiYotsugi&show_icons=true&theme=merko)](https://b23.tv/iEJTnPp)
 
 
+[![](https://img.shields.io/badge/讨厌-学习-yellow)
+![](https://img.shields.io/badge/MBTI-INFJ-red)
+![](https://img.shields.io/badge/兴趣-二次元-red)
+![](https://img.shields.io/badge/兴趣-游戏-red)
 
-
-
+#### 📫 其他平台账号 My social accounts
+<a href="https://space.bilibili.com/44212867">
+  <img src="https://img.shields.io/badge/Bilibili-斧乃木Yotsupi-lightblue?style=flat-square&logo=Bilibili"/>
+</a>
 
 <!--
 **AraragiYotsugi/AraragiYotsugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 ### Hi (*╹▽╹*)👋, 我是 斧乃木Yotsugi
 ### Hi (*╹▽╹*)👋, I'm 斧乃木Yotsugi
 
-<img width="1431" height="802" alt="avatar" src="https://github.com/user-attachments/assets/557fafe0-357e-46b3-8716-622b4e801d1e" />
+<img width="160" height="90" alt="avatar" src="https://github.com/user-attachments/assets/557fafe0-357e-46b3-8716-622b4e801d1e" />
 
 - 🔭 **我的Github: ✨我会在这里分享学习各种技术，会发布一些个人开发的项目（我的世界模组方面），也会参与一些开源项目。**
   - My GitHub: Here, I will share my learning journey in various technologies, publish some personal development projects (particularly in Minecraft modding), and also participate in open-source projects.

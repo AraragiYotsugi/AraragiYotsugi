@@ -12,9 +12,9 @@
 
 [![斧乃木Yotsugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AraragiYotsugi&show_icons=true&theme=omni)](https://github.com/AraragiYotsugi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AraragiYotsugi&layout=compact)](https://github.com/AraragiYotsugi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AraragiYotsugi&layout=compact)](https://github.com/AraragiYotsugi/github-readme-stats)
 
-[![](https://img.shields.io/badge/讨厌-学习-yellow)
+![](https://img.shields.io/badge/讨厌-学习-yellow)
 ![](https://img.shields.io/badge/MBTI-INFJ-red)
 ![](https://img.shields.io/badge/兴趣-二次元-pink)
 ![](https://img.shields.io/badge/兴趣-游戏-blue)

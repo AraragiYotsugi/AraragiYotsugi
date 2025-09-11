@@ -5,12 +5,12 @@
 
 - 🔭 **我的Github: ✨我会在这里分享学习各种技术，会发布一些个人开发的项目（我的世界模组方面），也会参与一些开源项目。**
   - My GitHub: Here, I will share my learning journey in various technologies, publish some personal development projects (particularly in Minecraft modding), and also participate in open-source projects.
-- 🌱 **正在研究学习：我的世界forge模组开发。。。**
-  - Currently learning: Unity Game Engine, Remote Sensing Deep Learning Image Processing, C++ programming related technologies.
-- 👯 **正在聆听意见：关于游戏模组开发、AI开发项目、实习等等……**
-  - Seeking advice on: Game development, C++, Job seeking, Internships, and more...
+- 🌱 **正在研究学习：我的世界forge模组开发...**
+  - Currently learning: Minecraft Forge Mod Development...
+- 👯 **正在聆听意见：关于游戏模组开发、AI开发项目、实习等等...**
+  - Seeking advice on: Regarding game mod development, AI development projects, internships, 和 more...
 - 🤔 **正在思考：作为一个普通二本学校的学生，自己了解的技术比较广，却都不精。目前在正在找实习中。**
-  - Confused and a bit lost: Being a second-year master's student from just a regular university, I've learned a bit of everything, but nothing in real depth. Right now, I'm searching for jobs and internships...
+  - Confused and a bit lost: As a student of an ordinary second tier university, I have a wide range of technical knowledge, but none of them are proficient. Currently looking for an internship...
 
 [![斧乃木Yotsugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AraragiYotsugi&show_icons=true&theme=omni)](https://github.com/AraragiYotsugi)   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=AraragiYotsugi&layout=compact)](https://github.com/AraragiYotsugi/github-readme-stats)
 |                     | 熟悉<br/>Familiar                 | 了解一点<br/>Understand A Little         | 学了皮毛<br/> Just Learned          |
